@@ -78,6 +78,4 @@ Closes the program with a confirmation message.
 
 ---
 
-This app is created by Aditya Eka Putra / [@adityaeputra](https://github.com/adityaeputra).  
-You can reach me through GitHub, LinkedIn, or other social platforms.
-
+*This app is created by Aditya Eka Putra. You can reach me through [GitHub](https://github.com/adityaeputra) or [Linkedin](https://www.linkedin.com/in/adityaeputra/).*
